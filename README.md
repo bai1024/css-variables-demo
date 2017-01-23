@@ -1,3 +1,4 @@
+## 效果图
 ![images](http://ok7n02kz6.bkt.clouddn.com/FjgC9YLSpadne_Ou04-eQ9gfSJ_-.gif)
 # 知识点：
 ## 1. NodeList 和 Array 的区别
