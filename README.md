@@ -1,3 +1,4 @@
+![images](http://ok7n02kz6.bkt.clouddn.com/FjgC9YLSpadne_Ou04-eQ9gfSJ_-.gif)
 # 知识点：
 ## 1. NodeList 和 Array 的区别
 可以打开 proto 查看它的方法，其中有 forEach()、item()、keys() 等。而 Array 的 prototype 中有 map()、pop() 等数组才有的方法。
