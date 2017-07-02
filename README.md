@@ -2,9 +2,7 @@
 
 [Online Demo](https://dingdingbai.github.io/css-variables/)
 
-<p align="center">
-
-​	<img src="http://ok7n02kz6.bkt.clouddn.com/FjgC9YLSpadne_Ou04-eQ9gfSJ_-.gif">
+<p align="center"><img src="http://ww1.sinaimg.cn/large/9bd18299gy1fh5mvr7herg20qs0g0tvu">
 
 </p>
 
